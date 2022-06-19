@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/cgt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cgt.name
+  * I am cgt (https://keybase.io/cgt) on keybase.
+  * I have a public key with fingerprint F310 8436 FF27 DB19 B2FB  1EF1 95CD 6B2C 0655 BE69
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "f3108436ff27db19b2fb1ef195cd6b2c0655be69",
+            "host": "keybase.io",
+            "key_id": "95CD6B2C0655BE69",
+            "uid": "e1fa8e43f720c6eb8cd5bb9c5988f600",
+            "username": "cgt"
+        },
+        "merkle_root": {
+            "ctime": 1414229998,
+            "hash": "cdf30a0a498b4197cffd5c01d01babbf3114a09978cd6e474ae0aa253dc744ee7d48a753f4a2550f679cebbc4e154602c287b3fab4e53f78057ea9c3972e38f6",
+            "seqno": 85068
+        },
+        "service": {
+            "hostname": "cgt.name",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1414230118,
+    "expire_in": 157680000,
+    "prev": "9ead793769081935352d15f33de06a05a62c64b90eb6ff3702a8d8cf0b763951",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkntMFFcUxmERDVBCaRrCKyDbgkHW5c57htJooIYaSLAI4RVL587c2Z3usrvM
+rtgtQqDSB4oBk5LQGrVRoBS0QAFpLSWVQoOxNJRCoSqClhCBpjQKUoyBzhAa7fx1
+59zfPef7zjm1/l4eOs+6YYthe1af7HljHnpkpjqkEj20i259QolesMrI5tJONr4Q
+6RP0FuSGvBMZZftOm11ExredO7cYg74YKU7ZblMpYGSMuL7UoOHaY0m2mZDiUGQt
+l14iMMCSBC1JOCNCjIO4BDEkYRwliDTEBUBTFEQ0p6Y0252u/1XVb+YskEU1ylHJ
+r9FJeLLGJ+3f5I9sXiBM4llEEhKDA4FGkBVECkJOoDiWlWgANNCJlC1LgsmlSS1E
+isWKChS7fdOv4JK1W4zESBznOI5VxfBOs8aLEgF4wJMcC0mMYwRJEikBYCLAIA+h
+6g4jecBxjFqWRiRD8gjwPE4RosCQJEKMSLI8QxESqQYpINEMJyAIBRJhFEkDXMBZ
+BhISD0mkQgwLKAbxnEBwDI4IVb+q3omKbHZ9AksBmi3VfpViWUCabK1hT30ZN48G
+vUOxu+yC3apGzS6XI0Hz63I7NOooggVb7wugfNEmqqN6dpaYij7bCwJgmNoL9I5D
+VlCBrBEUQ7NA/bQ6qFgbDOJFhiMYmgMsxhEUQeEiRkkEISJA84DiaVygScgBBNUl
+IBiA86zIChKADE1wFPbUIaHq5E1qSqdssvGuIwrSl1bpwrd5eOo8tnvrtGX18PV5
+/r8NDkoJ2DB1AXf1yvCC783Du2YvR0fWTs723zwTU2Y5ti+nvWyg9rMfTHExXVVt
+Jwfmeu7tpdHdofQJKmY4MeRE53WQ4a7bMeN/5ycl3/Fzn2jNSA51NW0rPzs/9tEs
+/mMu7LUqS5ZAJeTB55MRRRf3pY7U1zRE9RXvT6dfOm06MDEXGjKeHFR34bGjonnq
+ykbo9PG0le6zDW3mqJSyj43vc87DXxuPRzw+Z/t9/WBYZsrgQypq8I2CgU8Xdge0
+ZlatzbTUvPvVl5asydb4JcJPV3ktkvygP+/+iLxYjZUXDWS8Wv5ceK/3zExw1aXm
+3Psb5cMVp/6ZMnSmLv29GDKXHWwNKXTH3G5tIpIWe+JHG3OadjeaZ//ChyKmO5bD
+3dz2gMy46FdeaLzlteeeZfpSvu9YhW/H3EjgJD/3MHG11Jz2R8NI5FSdT1ds+ofj
+JZmnF2bb23THen3COJSTNB5d+151oHF50OkJn+Tl29fr8zHv1dFu3LZyYdnv9Ru/
+fBJ3Ljh47BT9za09q35NzV0TncRvT4J18K2X1y4PzQekfnvV+n17WHzxd3fPez5K
+bInuiDngF5A28kVPvdd6Kq3LHoyqCmVH34y1tkgdjut9uVh/ePehE0fD+muyHvw6
+vGPl4NBE9hVDVN55t3g7p3Jtb6Uc9OKdQ3nz9JmT/f67eh014Nqfk49i06+G/gs=
+=EdVl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cgt
+
+==================================================================
